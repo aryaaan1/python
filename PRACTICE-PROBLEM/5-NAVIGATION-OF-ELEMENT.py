@@ -1,0 +1,8 @@
+numbers = (1,3,4,5,7)
+
+print(numbers[0])
+print(numbers[1])
+print(numbers[2])
+print(numbers[3])
+print(numbers[4])
+print(numbers[0],numbers[1],numbers[2],numbers[3],numbers[4])
