@@ -1,0 +1,1 @@
+a = int(input("enter the number of terms loop runs"))
