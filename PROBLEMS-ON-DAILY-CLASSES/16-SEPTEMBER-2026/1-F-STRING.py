@@ -1,0 +1,1 @@
+print(' I Love {0} and {1}'.format('coding','programming'))
