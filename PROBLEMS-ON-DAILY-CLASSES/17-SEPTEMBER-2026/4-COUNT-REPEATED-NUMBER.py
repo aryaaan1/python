@@ -1,8 +1,10 @@
 from array import*
-a = array('i',[ ])
-for i in a:
-    a[i] = int(input("enter the number : "))
-    print(a)
+n =  int(input("enter the number "))
+t = array('i',[])
+for i in range(n):
+    a = int(input("enter a number "))
+    t.append(a)
+print(t)   
 
 
 # # print(list(a))
